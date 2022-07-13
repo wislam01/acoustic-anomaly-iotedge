@@ -22,7 +22,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-wiston-url]
+[![LinkedIn][linkedin-shield]][linkedin-terry-url]
 
 
 
@@ -84,18 +85,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `wislam01`, `acoustic-anomaly-iotedge`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `Anomaly Detection in Acoustics using IoT Edge`, `Steps to do Anomaly Detection in Acoustics using IoT Edge in Azure Percept`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `wislam01`, `acoustic-anomaly-iotedge`, `twitter_handle`, `wiston-lamshing-2126aa19`, `email_client`, `email`, `Anomaly Detection in Acoustics using IoT Edge`, `Steps to do Anomaly Detection in Acoustics using IoT Edge in Azure Percept`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### Built With
+### Languages and Tools
 
-* [![Python][python.org/]][Python-url]
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -187,7 +187,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Wiston Lamshing - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Terry Mandin - 
 
 Project Link: [https://github.com/wislam01/acoustic-anomaly-iotedge](https://github.com/wislam01/acoustic-anomaly-iotedge)
 
@@ -198,7 +199,7 @@ Project Link: [https://github.com/wislam01/acoustic-anomaly-iotedge](https://git
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [Acoustic Predictive Maintenance with Azure Percept](https://github.com/christian-vorhemus/azure-percept-iot-edge)
 * []()
 * []()
 
@@ -219,7 +220,8 @@ Project Link: [https://github.com/wislam01/acoustic-anomaly-iotedge](https://git
 [license-shield]: https://img.shields.io/github/license/wislam01/acoustic-anomaly-iotedge.svg?style=for-the-badge
 [license-url]: https://github.com/wislam01/acoustic-anomaly-iotedge/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-wiston-url]: https://linkedin.com/in/wiston-lamshing
+[linkedin-terry-url]: https://linkedin.com/in/terry-mandin
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
