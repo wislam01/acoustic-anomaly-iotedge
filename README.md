@@ -1,22 +1,5 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -69,7 +52,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -82,7 +64,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is to create a solution to acquire acoustic .wav files, convert them into spectrograms, and then use a Machine Learning model to detect anomalies using an Azure Percept device. 
+This project is to create a solution to acquire acoustic .wav files, convert them into spectrograms, and then use a Machine Learning model to detect anomalies using an Azure Percept device. This project builds on the work in the repo(s) below.
+
+* [Acoustic Predictive Maintenance with Azure Percept](https://github.com/christian-vorhemus/azure-percept-iot-edge)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,59 +82,27 @@ This project is to create a solution to acquire acoustic .wav files, convert the
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+These will be the steps to set up and Azure Percept device to acquire .wav file for using them in a machine learning model. 
 
 ### Prerequisites
 
 Will need to first provision the Azure Percept device using the guide linked below. 
 1. [Set up the Azure Percept DK device | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-percept/quickstart-percept-dk-set-up)
 
-<!-->
+
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/wislam01/acoustic-anomaly-iotedge.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Placeholder
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
--->
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Placeholder
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/wislam01/acoustic-anomaly-iotedge/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
--->
 
 <!-- CONTRIBUTING -->
 ## Contributing
