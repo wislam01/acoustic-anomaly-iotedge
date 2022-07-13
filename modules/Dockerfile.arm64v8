@@ -1,0 +1,19 @@
+FROM cvorhemus/percept-base
+
+WORKDIR /app
+
+USER root
+
+RUN yum install -y alsa-lib-devel
+RUN yum install -y git && yum install -y automake && yum install -y autoconf && yum install -y autogen
+# This installs libsndfile, necessary for librosa to record and play audio files
+RUN git clone https://github.com/libsndfile/libsndfile.git && cd libsndfile && ./autogen.sh && ./configure --enable-werror && make && make install
+RUN yum install -y libusb-devel iputils bind-utils
+RUN pip3 install --upgrade pip
+RUN pip3 install opencv-python-headless
+RUN pip3 install librosa matplotlib
+RUN pip3 install azure-percept
+COPY . .
+RUN pip3 install -r requirements.txt
+
+CMD [ "python3", "-u", "./main.py" ]
