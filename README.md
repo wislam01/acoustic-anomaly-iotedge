@@ -22,8 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-wiston-url]
-[![LinkedIn][linkedin-shield]][linkedin-terry-url]
+
 
 
 
@@ -184,6 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Wiston Lamshing - [![LinkedIn][linkedin-shield]][linkedin-wiston-url]
+
 Terry Mandin - [![LinkedIn][linkedin-shield]][linkedin-terry-url]
 
 Project Link: [https://github.com/wislam01/acoustic-anomaly-iotedge](https://github.com/wislam01/acoustic-anomaly-iotedge)
@@ -213,7 +213,7 @@ Project Link: [https://github.com/wislam01/acoustic-anomaly-iotedge](https://git
 [issues-shield]: https://img.shields.io/github/issues/wislam01/acoustic-anomaly-iotedge.svg?style=for-the-badge
 [issues-url]: https://github.com/wislam01/acoustic-anomaly-iotedge/issues
 [license-shield]: https://img.shields.io/github/license/wislam01/acoustic-anomaly-iotedge.svg?style=for-the-badge
-[license-url]: https://github.com/wislam01/acoustic-anomaly-iotedge/blob/master/LICENSE.txt
+[license-url]: https://github.com/wislam01/acoustic-anomaly-iotedge/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-wiston-url]: https://linkedin.com/in/wiston-lamshing
 [linkedin-terry-url]: https://linkedin.com/in/terry-mandin

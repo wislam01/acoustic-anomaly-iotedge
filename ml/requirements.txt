@@ -1,0 +1,8 @@
+librosa>=0.8.1
+scipy>=1.4.1
+numpy>=1.18.5
+matplotlib
+Pillow
+torch
+torchvision
+opencv-python
